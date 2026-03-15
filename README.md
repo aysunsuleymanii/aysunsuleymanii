@@ -10,38 +10,11 @@ I also have a strong interest in **machine learning and big data systems**, part
 
 ### Tools & Technologies
 
-**Languages**
-
-* Java
-* Go
-* Python
-* C++
-* C#
-
-**Frameworks**
-
-* Spring Boot
-* Django
-* FastAPI
-* ASP.NET Core
-
-**DevOps / Infrastructure**
-
-* Docker
-* Kubernetes
-
-**Big Data**
-
-* Apache Spark
-* Apache Kafka
-* Apache Flink
-
-**Databases**
-
-* PostgreSQL
-* Redis
-
----
+**Languages:** Java, Go, Python, C++, C#  
+**Frameworks:** Spring Boot, Django, FastAPI, ASP.NET Core  
+**DevOps / Infrastructure:** Docker, Kubernetes  
+**Big Data:** Apache Spark, Apache Kafka, Apache Flink  
+**Databases:** PostgreSQL, Redis
 
 ### What I'm Currently Learning
 
